@@ -4,7 +4,7 @@ patches:
   - patch: |
       - op: add
         path: /metadata/namespace
-        value: eb69g
+        value: e4mw9
     target:
       name: podinfo
 resources:
